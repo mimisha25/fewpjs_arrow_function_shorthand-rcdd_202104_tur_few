@@ -1,7 +1,5 @@
-const divide = function() {
+const dividing = function() {
    return 2000 / 100;
  }
-
- const square = x => x ** x;
-
- const add = (a,b) => a + b;
+ const squaring = x => x ** x;
+ const adding = (a,b) => a + b;
